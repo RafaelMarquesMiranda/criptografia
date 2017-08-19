@@ -3,20 +3,21 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cripitografia;
+package cripito;
+
+import java.util.ArrayList;
 
 /**
  *
- * @author Rafael Marques Miranda
+ * @author computador 3
  */
-public class Cripitografia {
-
-    
-    
- 
-    
+public class testes {
     public static void main(String[] args) {
-        // TODO code application logic here
+         String string = "abcdef";
+
+        
+        
+
+        
     }
-    
 }
